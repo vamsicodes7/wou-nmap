@@ -28,7 +28,7 @@ echo `tput setaf 1`"
   ________________________________________________________________________
  |                                                                        |
  |             	       WebSite: RedSecurity.xyz                           |
- |		        Admin: Vamsi			                |
+ |		        Admin: Vamsi			                 |
  |	 E-mail: guruvamsi.pandiriboyina_2026@woxsen.edu.in		  |
  |									  | 
  --------------------------------------------------------------------------
