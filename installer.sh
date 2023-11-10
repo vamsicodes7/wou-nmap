@@ -26,10 +26,10 @@ echo `tput setaf 1`"
 
   ________________________________________________________________________
  |                                                                        |
- |             	       WebSite: RedSecurity.xyz                           |
- |		        Creator: RedSecurity Admin			  |
- |		         E-mail: Info@RedSecurity.xyz			  |
- |									  | 
+ |             WebSite: RedSecurity.xyz                                   |
+ |		         Admin: Vamsi 			                                        |
+ |		         E-mail: guruvamsi.pandiriboyina_2026@woxsen.edu.in			    |
+ |									                                                      | 
  --------------------------------------------------------------------------
 "
 sleep .12
