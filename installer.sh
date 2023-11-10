@@ -36,7 +36,7 @@ sleep .12
 echo `tput setaf 11` 'Please select an option :) '
 sleep .12
 echo `tput setaf 45`
-echo '[1] Vamsi'
+echo '[1] Port Scan'
 sleep .12
 echo ''
 echo '[2] Script Scan'
