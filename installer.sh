@@ -28,7 +28,7 @@ echo `tput setaf 1`"
  |                                                                        |
  |             	       WebSite: RedSecurity.xyz                           |
  |		        Admin: Vamsi			                  |
- |	 E-mail: guruvamsi.pandiriboyina_2026@woxsen.edu.in		  |
+ |	 Team: Vaishnavi, Hemanth, Mohitha		      |
  |									  | 
  --------------------------------------------------------------------------
 "
@@ -293,4 +293,4 @@ echo "   This tool contains many important Nmap features, but does not have some
 echo '    WebSite:RedSecurity.xyz'
 echo '     E-mail:guruvamsi.pandiriboyina_2026@woxsen.edu.in'
 echo ''
-fi
+
