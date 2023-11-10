@@ -29,7 +29,7 @@ echo `tput setaf 1`"
  |                                                                        |
  |             	       WebSite: RedSecurity.xyz                           |
  |		        Creator: RedSecurity Admin			  |
- |		         E-mail: guruvamsi.pandiriboyina_2026@woxsen.edu.in		  |
+ |	 E-mail: guruvamsi.pandiriboyina_2026@woxsen.edu.in		  |
  |									  | 
  --------------------------------------------------------------------------
 "
